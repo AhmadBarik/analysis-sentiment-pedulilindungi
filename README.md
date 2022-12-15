@@ -1,3 +1,4 @@
 # analysis-sentiment-pedulilindungi
 This is my first project for data analyst <br><br>
-Open file with Google Colab because in that file, me use google-play scrapper for scrapping data
+Open file .ipynb with Google Colab. <br> 
+because in that file, me use google-play scrapper for scrapping data
